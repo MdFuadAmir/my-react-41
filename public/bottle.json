@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Widget A",
+    "price": 19.99,
+    "img": "https://cdn.shopify.com/s/files/1/0038/8644/8738/products/HydroFlask-20-oz-hibiscus-20-wide-mouth.jpg?v=1655098969&width=1021",
+    "description": "A high-quality widget with advanced features."
+  },
+  {
+    "id": 2,
+    "name": "Gadget B",
+    "price": 29.99,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyM0MWrsIQcmn8i3_7P9P_y5k9a1d_vdxU1HIcGcPSwwnp4TsrnbqbX6sgIOcB4T_tUQs&usqp=CAU",
+    "description": "An innovative gadget designed for convenience and efficiency."
+  },
+  {
+    "id": 3,
+    "name": "Tool X",
+    "price": 14.5,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZl5TfBaHSSGd8sMfE8gcDy117Qnp6AF96y71bqPT8Fp4vJ-kXe76Lx2AdQnlEcvefbYQ&usqp=CAU",
+    "description": "A versatile tool suitable for various applications."
+  },
+  {
+    "id": 4,
+    "name": "Accessory Y",
+    "price": 9.99,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0VSCCThP1gF0Nxp61VvhkoOqi_F2_FHRtz9frPH0zPUM7rNnPmaXNHjwDzJt8si4sRpc&usqp=CAU",
+    "description": "A stylish accessory that complements your daily lifestyle."
+  },
+  {
+    "id": 5,
+    "name": "Tech Gizmo Z",
+    "price": 49.99,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS7js2Z5yYdlpxpi5ysqs2Ux82fUNkw6h-WFNqZljEvXqRGXHuK2Z69Or4Aetuy62XQtY&usqp=CAU",
+    "description": "The latest tech gizmo featuring cutting-edge technology."
+  },
+  {
+    "id": 6,
+    "name": "Fancy Pen Set",
+    "price": 12.99,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ah7RG1ftdrFFzjCSR2u9hDTnh1m7KRtVUwB8_t6__8mYlBjPlEVOLTew33UsLlSFVnQ&usqp=CAU",
+    "description": "A set of elegant pens perfect for professional use."
+  },
+  {
+    "id": 7,
+    "name": "Cozy Blanket",
+    "price": 24.95,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmI1dK9F8YB-tPYXmtq2tytQ10-4RxfvhKHoKk0L_xylBjHjvu0VlOnXpgx1x02BpGdjg&usqp=CAU",
+    "description": "A warm and soft blanket for chilly evenings."
+  },
+  {
+    "id": 8,
+    "name": "Herbal Tea Sampler",
+    "price": 8.5,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUGw-89Oi_0zqEKmZ8sSutsxGd-GHVYbmtMKoguU9BzysQupNWUq0jvB4mhvYdYyjYHDk&usqp=CAU",
+    "description": "A collection of soothing herbal teas for relaxation."
+  },
+  {
+    "id": 9,
+    "name": "Adventure Backpack",
+    "price": 39.99,
+    "img": "https://www.shopmyexchange.com/products/images/xlarge/3050866_E5NQ.jpg",
+    "description": "A durable backpack for your outdoor adventures."
+  },
+  {
+    "id": 10,
+    "name": "Smartphone Stand",
+    "price": 15.99,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_lPPBQrXjY2a10_dLG36kAeyE92GvQ1enXdxHUqw0gn9xxJizbhZ0-h0s4o4O0f-jdQM&usqp=CAU",
+    "description": "A versatile stand to hold your smartphone at the perfect angle."
+  }
+]

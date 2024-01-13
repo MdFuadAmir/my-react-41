@@ -1,0 +1,19 @@
+.bottole{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+.bottl{
+    border: 2px solid skyblue;
+    border-radius: 20px;
+    padding: 10px;
+}
+.img{
+    width: 200px;
+    border-radius: 20px;
+}
+.cartImg{
+    width: 100px;
+    margin: 3px;
+    border-radius: 20px;
+}
